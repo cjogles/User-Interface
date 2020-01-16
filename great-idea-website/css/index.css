@@ -64,3 +64,121 @@ h1, h2, h3, h4, h5 {
 }
 
 /* Your code starts here! */
+
+* {
+
+}
+
+body {
+	
+}
+
+div.nav {
+}
+
+div.nav nav {
+	width: 70%;
+	display: inline-block;
+	vertical-align: super;
+	margin-left:80px;
+}
+
+div.nav nav a {
+	padding-right: 80px;
+	color: grey;
+}
+
+div.nav div.navImg {
+	width: 20%;
+	display: inline-block;
+}
+
+div.nav div.navImg img {
+	padding-left: 50%;
+}
+
+div.main {
+	margin-top: 100px;
+	margin-bottom: 100px;
+}
+
+div.main div.mainText {
+	display: inline-block;
+	width: 48%;
+	vertical-align: middle;
+	text-align: center;
+	padding-left: 200px;
+}
+
+div.main div.mainText h1 {
+	font-size: 4rem;
+	margin-bottom: 2rem;
+}
+
+div.main div.mainText button {
+	color: black;
+	width: 180px;
+	background: white;
+}
+
+div.main div.mainImg {
+	display: inline-block;
+	width: 48%;
+	vertical-align: middle;
+	padding-left: 20px;
+}
+
+div.top {
+	margin-left:50px;
+}
+
+div.top div.features {
+	display: inline-block;
+	width: 45%;
+}
+
+div.top div.about {
+	display: inline-block;
+	width: 45%;
+}
+
+img.middle-img {
+	width:90%;
+	margin-left: 50px;
+	margin-top: 20px;
+	margin-bottom:20px;
+}
+div.bottom {
+	margin-left:50px;
+	margin-bottom: 20px;
+}
+
+div.bottom div.services {
+	width: 30%;
+	display: inline-block;
+}
+
+div.bottom div.product {
+	width: 30%;
+	display: inline-block;
+}
+
+div.bottom div.vision {
+	width: 30%;
+	display: inline-block;
+}
+
+address {
+	margin-top:20px;
+	margin-left:50px;
+}
+
+address ul li {
+	margin-bottom:20px;
+}
+
+footer {
+	text-align: center;
+	margin-top:50px;
+	margin-bottom:50px;
+}
